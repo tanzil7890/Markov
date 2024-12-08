@@ -1,6 +1,7 @@
 `This project will be live in a couple of months.`
 ### Will make this project open source in months.(Maybe)
 # Markov: An AI-based screen recorder suite (under development)
+<a href="https://www.producthunt.com/posts/markov-beta-release?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-markov&#0045;beta&#0045;release" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=686603&theme=light" alt="Markov&#0032;&#0045;&#0032;Beta&#0032;Release - AI&#0045;based&#0032;Effortless&#0032;Screen&#0032;Recording&#0032;Smarter&#0032;Editing&#0032;tool&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 Markov: A  screen recorder with built-in AI tools for easy recording, editing, and sharing.
 
 Markov is a powerful, privacy-first screen recording and annotation tool available as a **Chrome extension** and **desktop application**. It helps you create stunning product demos, tutorials, presentations, and more while keeping your data private. With a built-in editor, you can seamlessly enhance your recordings without the need for external tools.
